@@ -1,0 +1,5 @@
+{
+  "name": "DocNav AI - Universal Document Navigator",
+  "description": "An advanced AI-powered document navigator. It intelligently analyzes structure (TOC, Chapters, Sub-sections) to create instant, interactive navigation links for any PDF document, from Theses to Financial Reports.",
+  "requestFramePermissions": []
+}
