@@ -36,6 +36,11 @@
   <h1 style="border-bottom: none; font-weight: 800; font-size: 40px; margin-bottom: 0;">UNIVERSAL DOCUMENT NAVIGATOR</h1>
   <h3 style="border-bottom: none; margin-top: 10px; color: #94a3b8;">Advanced Agentic Analysis Interface</h3>
 
+<img width="1860" height="961" alt="image" src="https://github.com/user-attachments/assets/9de8826b-76bb-4cb5-985e-7abb58768dc6" />
+<img width="1371" height="830" alt="image" src="https://github.com/user-attachments/assets/ce06ca1d-7611-4885-a715-acc861afb948" />
+<img width="1371" height="823" alt="image" src="https://github.com/user-attachments/assets/0aaef2d0-93c2-4e11-948b-12be8c43ef10" />
+
+
   <p style="max-width: 800px; color: #cbd5e1; font-size: 16px; line-height: 1.6;">
     <b>DocNav AI</b> is an enterprise-grade intelligence platform engineered to deconstruct complex financial reports and technical documentation. Leveraging <b>Google Gemini 2.5 & 3.0</b> reasoning models, it autonomously maps document structures, indexes semantic definitions, and performs robotic visual verification to create instant, interactive navigation overlays.
   </p>
